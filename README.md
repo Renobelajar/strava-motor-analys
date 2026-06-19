@@ -56,5 +56,3 @@ The system uses MySQL database to store:
 - Oil change records
 - Spare part replacement records
 
-## Author
-Reno
